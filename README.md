@@ -29,6 +29,7 @@ An evolution of the spatial UI to allow cleaner transitions and deeper expressio
 * **Language:** Python (with a potential fallback to TypeScript)
 * **Computer Vision:** MediaPipe / OpenCV
 * **Sound Generation:** Algorithmic real-time synthesis via code (e.g., `pyo`, `numpy` + `sounddevice`)
+  * Interface: PySide6 
 
 ## ⚙️ Installation & Usage
 
